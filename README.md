@@ -1,6 +1,6 @@
 <div>
 
-<img src="https://br.pinterest.com/pin/70437489357325.gif" width="1000" height="300"/>
+<img src="https://pin.it/6xoEES6ce" width="1000" height="300"/>
 
    ## Seja Bem-Vindo(a) ao meu perfil no GitHub!
 <br>
