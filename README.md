@@ -1,7 +1,5 @@
 <div>
 
-![snake gif](https://github.com/alan-felipe-dev/alan-felipe-dev/blob/output/github-contribution-grid-snake.gif)
-
    ## Seja Bem-Vindo(a) ao meu perfil no GitHub!
 <br>
    <a href="https://github.com/alan-felipe-dev">
