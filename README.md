@@ -1,5 +1,7 @@
 <div>
 
+<img src="https://br.pinterest.com/pin/70437489357325/" width="1000" height="300"/>
+
    ## Seja Bem-Vindo(a) ao meu perfil no GitHub!
 <br>
    <a href="https://github.com/alan-felipe-dev">
