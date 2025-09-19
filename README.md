@@ -1,7 +1,5 @@
 <div>
 
-<img src="https://pin.it/6xoEES6ce" width="1000" height="300"/>
-
    ## Seja Bem-Vindo(a) ao meu perfil no GitHub!
 <br>
    <a href="https://github.com/alan-felipe-dev">
