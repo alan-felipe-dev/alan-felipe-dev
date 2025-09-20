@@ -1,24 +1,22 @@
-name: Generate Snake Animation
+name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # roda a cada 12h
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
   build:
-    name: Generate Snake
+    name: Build Snake Animation
     runs-on: ubuntu-latest
 
     steps:
-      # Gera a cobrinha com tema escuro
       - uses: Platane/snk@master
         with:
           github_user_name: alan-felipe-dev
           outputs: dist/github-contribution-grid-snake-dark.svg
           palette: github-dark
 
-      # Publica no branch output
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
