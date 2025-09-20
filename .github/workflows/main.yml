@@ -19,7 +19,7 @@ jobs:
         with:
           github_user_name: alan-felipe-dev
           theme: dark
-          output: snake/github-contribution-grid-snake-dark.svg
+          output: dist/github-contribution-grid-snake-dark.svg
 
       - name: Commit and push SVG to main
         run: |
