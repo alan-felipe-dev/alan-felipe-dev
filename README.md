@@ -25,4 +25,3 @@
 </div>
 
 ![Snake animation dark](https://github.com/alan-felipe-dev/alan-felipe-dev/blob/output/github-contribution-grid-snake-dark.svg)
-
