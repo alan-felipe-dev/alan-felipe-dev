@@ -16,24 +16,33 @@
 <div align="center">
   <table>
     <tr>
-      <td align="left" style="padding-right: 20px;">
-        <div align="center" display="inline-block">
-          <img alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" width="40">
-          <img alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" width="40">
-          <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="30" width="40">
-          <img alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" height="30" width="40">
-          <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" height="30" width="40">
-          <img alt="Jest" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" height="30" width="40">
-          <img alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="30" width="40">
-          <img alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="30" width="40">
-        </div>
+      <td align="left" valign="top" style="padding-right: 24px; width: 60%;">
+        <table>
+          <tr>
+            <td><img alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="30"></td>
+            <td><img alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="30"></td>
+            <td><img alt="JS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" height="30"></td>
+          </tr>
+          <tr>
+            <td><img alt="TS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="40" height="30"></td>
+            <td><img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" width="40" height="30"></td>
+            <td><img alt="Jest" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="40" height="30"></td>
+          </tr>
+          <tr>
+            <td><img alt="Node" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="30"></td>
+            <td><img alt="Postgres" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="30"></td>
+            <td></td>
+          </tr>
+        </table>
       </td>
-  <td align="right">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazFjNmcxY3Y5b2M3OGtyOWk3ZzdncjE0M2RiaXlmbGFnMzRzY2lweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1zgzISaYrnMAYRJJEr/giphy.gif" height="400" width="400" alt="gif animado" style="border-radius: 10px;">
+      
+  <td align="right" valign="top" style="width: 40%;">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazFjNmcxY3Y5b2M3OGtyOWk3ZzdncjE0M2RiaXlmbGFnMzRzY2lweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1zgzISaYrnMAYRJJEr/giphy.gif" alt="gif animado" width="320" height="320" style="border-radius:10px;">
       </td>
     </tr>
   </table>
 </div>
+
 
 <br>
 
