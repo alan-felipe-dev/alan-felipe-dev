@@ -45,8 +45,23 @@
 
 <br>
 
-👋 OLÁ! CONFIRA [MEU PORTFÓLIO](https://alan-felipe-dev.github.io/portfolio/)
-  <br>
+### 👨‍💻 Sobre mim
+Sou desenvolvedor Front-End apaixonado por tecnologia e interfaces modernas.  
+Atualmente estudando React, TypeScript e boas práticas de UI/UX.  
+Busco minha primeira oportunidade como desenvolvedor júnior para aplicar e evoluir minhas habilidades.
+
+<br>
+
+### 🚀 Projetos em destaque
+- [🎧 Gerador de Conselhos](https://github.com/alan-felipe-dev/gerador-conselhos) — Consome API pública e exibe conselhos de forma dinâmica.
+  **Tecnologias:** HTML, CSS, JavaScript, API Fetch.
+
+- [👤 GitHub Finder](https://github.com/alan-felipe-dev/github-finder) — Busca usuários e exibe dados da API do GitHub.
+  **Tecnologias:** HTML, CSS, JavaScript, API GitHub.
+
+- [📂 Portfólio Pessoal](https://alan-felipe-dev.github.io/portfolio/) — Meu site com projetos, contatos e experiências.
+
+<br>
   <br>
 👋 OLÁ! CONFIRA [MEU CURRÍCULO](https://github.com/alan-felipe-dev/alan-felipe-dev/raw/main/Curr%C3%ADculo.pdf)
 
