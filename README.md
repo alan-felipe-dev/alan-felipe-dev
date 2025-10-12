@@ -63,7 +63,7 @@ Busco minha primeira oportunidade como **Desenvolvedor Júnior** para aplicar e 
 
 <br>
   
-👋 CONFIRA TAMBEM MEU [**CURRÍCULO**](https://github.com/alan-felipe-dev/alan-felipe-dev/raw/main/Curr%C3%ADculo.pdf)
+👋 CONFIRA TAMBÉM MEU [**CURRÍCULO**](https://github.com/alan-felipe-dev/alan-felipe-dev/raw/main/Curr%C3%ADculo.pdf)
 
 <br>
 
