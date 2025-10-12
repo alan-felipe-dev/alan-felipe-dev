@@ -8,10 +8,9 @@
 </div>
 
 <div style="display: flex; align-items: center; gap: 10px; margin-top: 10px;">
-   
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhkazk3eXh4ZXhrd3Zhc2NtN3IzMjlja29yenJ2Z3p0bHQ1bXduNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H62NM1ab7wzMXURdoi/giphy.gif" width="200" style="border-radius: 10px;" float: inline-end/>
-
-  <div style="display: inline_block;">
+  
+  <!-- ÍCONES DAS LINGUAGENS -->
+  <div style="display: flex; align-items: center; gap: 5px;">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -21,7 +20,13 @@
     <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   </div>
+
+  <!-- GIF AO LADO DIREITO -->
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhkazk3eXh4ZXhrd3Zhc2NtN3IzMjlja29yenJ2Z3p0bHQ1bXduNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H62NM1ab7wzMXURdoi/giphy.gif" 
+       width="120" style="border-radius: 10px;" />
+
 </div>
+
 
 <br>
 
