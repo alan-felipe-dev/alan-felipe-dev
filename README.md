@@ -31,6 +31,7 @@
           <tr>
             <td style="padding: 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"></td>
             <td style="padding: 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"></td>
+            <td style="padding: 12px;"></td>
           </tr>
         </table>
       </td>
