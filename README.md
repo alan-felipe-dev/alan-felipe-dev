@@ -8,8 +8,7 @@
       
 </div>
 
-  <div style="display: flex; align-items: center; justify-content: center; gap: 30px;">
-
+<div style="display: flex; align-items: center; justify-content: center; gap: 30px;">
    <div>
      <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
      <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -23,7 +22,7 @@
        
    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhkazk3eXh4ZXhrd3Zhc2NtN3IzMjlja29yenJ2Z3p0bHQ1bXduNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H62NM1ab7wzMXURdoi/giphy.gif" height="200" width="200" alt="gif animado" style="border-radius: 10px;"/>
    
-  </div>
+</div>
   
   <br>
 
