@@ -11,7 +11,7 @@
   
 </div>
 
-<div align="center"; margin-top: 50px>
+<div align="center">
   <table>
     <tr>
       <td align="left" style="padding-right: 20px;">
