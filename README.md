@@ -67,7 +67,7 @@ Busco minha primeira oportunidade como desenvolvedor júnior para aplicar e evol
 
 ---
 
-### Gostou do perfil? Me segue nas redes sociais abaixo!
+<div align="center">Gostou do perfil? Me segue nas redes sociais abaixo!</div>
 
 <div align="center"> 
   <a href="https://www.instagram.com/alanfelipe._/" target="_blank">
