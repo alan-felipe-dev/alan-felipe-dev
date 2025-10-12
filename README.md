@@ -55,9 +55,8 @@ Estou buscando uma oportunidade para colocar em prática meus conhecimentos em R
 
 ### 👨‍💻 Estudando
 
-- React 
- <br>
--Express
+- React <br>
+- Express
 
 ---
 
