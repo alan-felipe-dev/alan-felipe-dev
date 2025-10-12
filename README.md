@@ -67,7 +67,7 @@ Busco minha primeira oportunidade como desenvolvedor júnior para aplicar e evol
 
 ---
 
-<div align="center">###Gostou do perfil? Me segue nas redes sociais abaixo!</div>
+<div align="center">Gostou do perfil? Me segue nas redes sociais abaixo!</div>
 
 <br>
 
