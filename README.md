@@ -15,7 +15,7 @@
   <table>
     <tr>
       <td align="left" style="padding-right: 20px;">
-        <div>
+        <div style="display: grid; grid-template-columns: repeat(4, 40px); gap: 10px;">
           <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
           <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
           <img alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
