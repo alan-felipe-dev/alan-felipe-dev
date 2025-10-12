@@ -13,8 +13,8 @@
 
 <div align="center">
 
-  <table margin-top="50px">
-    <tr>
+  <table>
+    <tr margin-top="50px">
       <td align="left" style="padding-right: 20px;">
         <div>
           <img alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" width="40">
