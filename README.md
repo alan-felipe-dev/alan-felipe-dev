@@ -37,10 +37,10 @@
 
 <br>
 
-👋 Olá! Confira meu portfólio: [Meu Portfólio](https://alan-felipe-dev.github.io/portfolio/)
+👋 Olá! Confira meu Portfólio: [Meu Portfólio](https://alan-felipe-dev.github.io/portfolio/)
   <br>
   <br>
-👋 Olá! Confira meu portfólio: [Meu Currículo](https://github.com/alan-felipe-dev/alan-felipe-dev/raw/main/Curr%C3%ADculo.pdf)
+👋 Olá! Confira meu Currículo: [Meu Currículo](https://github.com/alan-felipe-dev/alan-felipe-dev/raw/main/Curr%C3%ADculo.pdf)
 
 ### Gostou do perfil? Me segue nas redes sociais abaixo!
 
