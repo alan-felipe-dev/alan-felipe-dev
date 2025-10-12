@@ -12,6 +12,7 @@
 </div>
 
 <div align="center">
+
   <table>
     <tr>
       <td align="left" style="padding-right: 20px;">
@@ -32,6 +33,7 @@
       </td>
     </tr>
   </table>
+
 </div>
 
 <br>
