@@ -67,7 +67,7 @@ Busco minha primeira oportunidade como **Desenvolvedor Júnior** para aplicar e 
 
 <br>
 
-👋 CONFIRA TAMBÉM MEU [**Portfólio**](https://alan-felipe-dev.github.io/portfolio/)
+👋 CONFIRA TAMBÉM MEU [**PORTFÓLIO**](https://alan-felipe-dev.github.io/portfolio/)
 
 ---
 
