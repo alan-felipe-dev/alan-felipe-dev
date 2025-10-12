@@ -19,13 +19,10 @@
     <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
        
   </div>
-
-  <div style="width: 200px; height: 200px; border: 1px solid red;">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhkazk3eXh4ZXhrd3Zhc2NtN3IzMjlja29yenJ2Z3p0bHQ1bXduNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H62NM1ab7wzMXURdoi/giphy.gif" alt="Meu GIF" style="width: 100%; height: 100%;">
-</div>
-
-       
-<br>
+  
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhkazk3eXh4ZXhrd3Zhc2NtN3IzMjlja29yenJ2Z3p0bHQ1bXduNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H62NM1ab7wzMXURdoi/giphy.gif" alt="Meu GIF" width= 200px>
+  
+  <br>
 
 👋 Olá! Confira meu portfólio: [Meu Portfólio](https://alan-felipe-dev.github.io/portfolio/)
  
