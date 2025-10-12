@@ -19,19 +19,18 @@
       <td align="center" valign="middle" style="border: none; padding-right: 40px;">
         <table style="border: none; border-collapse: collapse;">
           <tr>
-            <td style="padding: 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30"></td>
-            <td style="padding: 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" height="30"></td>
-            <td style="padding: 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="30" height="30"></td>
+            <td style="padding: 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"></td>
+            <td style="padding: 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"></td>
+            <td style="padding: 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" height="40"></td>
           </tr>
           <tr>
-            <td style="padding: 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="30" height="30"></td>
-            <td style="padding: 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" width="30" height="30"></td>
-            <td style="padding: 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="30" height="30"></td>
+            <td style="padding: 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="40" height="40"></td>
+            <td style="padding: 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" width="40" height="40"></td>
+            <td style="padding: 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="40" height="40"></td>
           </tr>
           <tr>
-            <td style="padding: 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30" height="30"></td>
-            <td style="padding: 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="30" height="30"></td>
-            <td style="padding: 12px;"></td>
+            <td style="padding: 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"></td>
+            <td style="padding: 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"></td>
           </tr>
         </table>
       </td>
