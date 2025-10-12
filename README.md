@@ -1,9 +1,9 @@
 <div align="center">
 
   ## Seja Bem-Vindo(a) ao meu perfil no GitHub!
+  
   <br>
-
-  <!-- Estatísticas -->
+  
   <a href="https://github.com/alan-felipe-dev">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alan-felipe-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alan-felipe-dev&layout=compact&langs_count=6&theme=tokyonight"/>
@@ -11,11 +11,8 @@
   
 </div>
 
-
-<!-- Seção linguagens + GIF (versão compatível com GitHub) -->
 <table>
   <tr>
-    <!-- Lado esquerdo: linguagens -->
     <td align="left" style="padding-right: 20px;">
       <div>
         <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -29,14 +26,11 @@
       </div>
     </td>
 
-    <!-- Lado direito: GIF -->
   <td align="right">
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhkazk3eXh4ZXhrd3Zhc2NtN3IzMjlja29yenJ2Z3p0bHQ1bXduNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H62NM1ab7wzMXURdoi/giphy.gif" height="200" width="200" alt="gif animado" style="border-radius: 10px;">
     </td>
   </tr>
 </table>
-
-
 
 <br>
 
