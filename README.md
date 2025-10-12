@@ -18,6 +18,8 @@
    <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 
+<br>
+
 👋 Olá! Confira meu portfólio: [Meu Portfólio](https://alan-felipe-dev.github.io/portfolio/)
  
 <br>
