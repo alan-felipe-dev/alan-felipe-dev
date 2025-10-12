@@ -11,8 +11,7 @@
   
 </div>
 
-<div align="center" margin-top="50px">
-
+<div align="center"; margin-top: 50px>
   <table>
     <tr>
       <td align="left" style="padding-right: 20px;">
@@ -32,7 +31,6 @@
       </td>
     </tr>
   </table>
-
 </div>
 
 <br>
