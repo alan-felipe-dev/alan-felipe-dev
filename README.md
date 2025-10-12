@@ -20,9 +20,9 @@
      <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
      <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
    </div>
-   
-   <img align="center" alt="GIF" height="200" width="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhkazk3eXh4ZXhrd3Zhc2NtN3IzMjlja29yenJ2Z3p0bHQ1bXduNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H62NM1ab7wzMXURdoi/giphy.gif">
        
+   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhkazk3eXh4ZXhrd3Zhc2NtN3IzMjlja29yenJ2Z3p0bHQ1bXduNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H62NM1ab7wzMXURdoi/giphy.gif" height="200" width="200" alt="gif animado" style="border-radius: 10px;"/>
+   
   </div>
   
   <br>
