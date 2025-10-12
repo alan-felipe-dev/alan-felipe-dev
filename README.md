@@ -29,7 +29,7 @@
         </div>
       </td>
   <td align="right">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazFjNmcxY3Y5b2M3OGtyOWk3ZzdncjE0M2RiaXlmbGFnMzRzY2lweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1zgzISaYrnMAYRJJEr/giphy.gif" height="300" width="300" alt="gif animado" style="border-radius: 10px;">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazFjNmcxY3Y5b2M3OGtyOWk3ZzdncjE0M2RiaXlmbGFnMzRzY2lweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1zgzISaYrnMAYRJJEr/giphy.gif" height="400" width="400" alt="gif animado" style="border-radius: 10px;">
       </td>
     </tr>
   </table>
