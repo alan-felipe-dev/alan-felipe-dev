@@ -1,6 +1,6 @@
 <div align="center">
 
-  ## Seja Bem-Vindo(a) ao meu perfil no GitHub!
+  ## SEJA BEM-VINDO(A) AO MEU PERFIL NO GITHUB!
   
   <br>
   
