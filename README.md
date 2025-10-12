@@ -12,7 +12,7 @@
 </div>
 
 <!-- Seção de linguagens + GIF -->
-<div style="display: flex; justify-content: space-between; align-items: center; margin: 40px 0; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; justify-content: space-between; width: 100%; max-width: 800px; margin: 0 auto;">
 
   <!-- Lado esquerdo: ícones das linguagens -->
   <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: flex-start;">
@@ -27,12 +27,13 @@
   </div>
 
   <!-- Lado direito: GIF -->
-  <div style="text-align: right;">
+  <div style="flex-shrink: 0;">
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhkazk3eXh4ZXhrd3Zhc2NtN3IzMjlja29yenJ2Z3p0bHQ1bXduNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H62NM1ab7wzMXURdoi/giphy.gif" 
          height="200" width="200" alt="gif animado" style="border-radius: 10px;">
   </div>
 
 </div>
+
 
 
 <br>
