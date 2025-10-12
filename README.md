@@ -3,6 +3,7 @@
   ## Seja Bem-Vindo(a) ao meu perfil no GitHub!
   <br>
 
+  <!-- Estatísticas -->
   <a href="https://github.com/alan-felipe-dev">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alan-felipe-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alan-felipe-dev&layout=compact&langs_count=6&theme=tokyonight"/>
@@ -10,20 +11,23 @@
   
 </div>
 
-<div style="display: flex; justify-content: space-between; align-items: center; margin: 40px 0;">
+<!-- Ícones + GIF lado a lado -->
+<div align="center" style="display: flex; gap: 40px; margin-top: 20px;">
 
-  <div style="flex: 1; text-align: left;">
-    <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
-    <img alt="Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
-    <img alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <!-- Bloco dos ícones -->
+  <div>
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
+    <img align="center" alt="Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
+    <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   </div>
 
-  <div style="flex: 1; text-align: right;">
+  <!-- Bloco do GIF -->
+  <div>
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhkazk3eXh4ZXhrd3Zhc2NtN3IzMjlja29yenJ2Z3p0bHQ1bXduNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H62NM1ab7wzMXURdoi/giphy.gif" 
          height="200" width="200" alt="gif animado" style="border-radius: 10px;">
   </div>
@@ -54,3 +58,4 @@
 <br>
 
 <img src="https://raw.githubusercontent.com/alan-felipe-dev/alan-felipe-dev/output/snake.svg" alt="Snake animation" />
+
