@@ -12,7 +12,7 @@
 </div>
 
 <!-- Ícones + GIF lado a lado -->
-<div align="center"; display: flex; justify-content: space-between;>
+<div display: flex; justify-content: space-between;>
 
   <!-- Bloco dos ícones -->
   <div>
