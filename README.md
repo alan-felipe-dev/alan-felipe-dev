@@ -54,11 +54,13 @@ Estou buscando uma oportunidade para colocar em prática meus conhecimentos em R
 ---
 
 ### 🚀 Projetos em destaque
-- [🎧 Gerador de Conselhos](https://alan-felipe-dev.github.io/api-de-conselhos/) — Consome API pública e exibe conselhos de forma dinâmica.Nesse projeto, aprimorei minha habilidade de consumir APIs REST e gerenciar estados em JavaScript. <br>
+- [🎧 Gerador de Conselhos](https://alan-felipe-dev.github.io/api-de-conselhos/) — Consome API pública e exibe conselhos de forma dinâmica. <br>
+  Nesse projeto, aprimorei minha habilidade de consumir APIs REST e gerenciar estados em JavaScript. <br>
   Tecnologias: HTML / CSS / JavaScript / API Fetch.
 
 - [👤 GitHub Finder](https://alan-felipe-dev.github.io/github-api-fetch/) — Busca usuários e exibe dados da API do GitHub. <br>
-  Tecnologias: HTML / CSS / JavaScript / API GitHub.
+  Neste projeto, aprimorei minha habilidade de consumir a API do GitHub e gerenciar dados.
+  Tecnologias: HTML / CSS / JavaScript / API GitHub. <br>
 
 - [📂 Portfólio Pessoal](https://alan-felipe-dev.github.io/portfolio/) — Meu site com projetos, contatos e experiências.
 
