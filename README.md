@@ -19,19 +19,19 @@
       <td align="center" valign="middle" style="border: none; padding-right: 40px;">
         <table style="border: none; border-collapse: collapse;">
           <tr>
-            <td style="padding: 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"></td>
-            <td style="padding: 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"></td>
-            <td style="padding: 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" height="40"></td>
+            <td style="padding: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"></td>
+            <td style="padding: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"></td>
+            <td style="padding: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" height="40"></td>
           </tr>
           <tr>
-            <td style="padding: 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="40" height="40"></td>
-            <td style="padding: 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" width="40" height="40"></td>
-            <td style="padding: 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="40" height="40"></td>
+            <td style="padding: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="40" height="40"></td>
+            <td style="padding: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" width="40" height="40"></td>
+            <td style="padding: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="40" height="40"></td>
           </tr>
           <tr>
-            <td style="padding: 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"></td>
-            <td style="padding: 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"></td>
-            <td style="padding: 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"></td>
+            <td style="padding: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"></td>
+            <td style="padding: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"></td>
+            <td style="padding: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"></td>
             </tr>
         </table>
       </td>
@@ -45,10 +45,10 @@
 
 ---
 
-### 👨💻 Sobre mim
+### 👨‍💻 Sobre mim
 Sou desenvolvedor Front-End apaixonado por tecnologia e interfaces modernas.  
 Atualmente estudando **React**, **TypeScript** e boas práticas de **UI/UX**.  
-Busco minha primeira oportunidade como desenvolvedor júnior para aplicar e evoluir minhas habilidades.
+Busco minha primeira oportunidade como **Desenvolvedor Júnior** para aplicar e evoluir minhas habilidades.
 
 ---
 
@@ -63,7 +63,11 @@ Busco minha primeira oportunidade como desenvolvedor júnior para aplicar e evol
 
 <br>
   
-👋 OLÁ! CONFIRA [MEU CURRÍCULO](https://github.com/alan-felipe-dev/alan-felipe-dev/raw/main/Curr%C3%ADculo.pdf)
+👋 CONFIRA TAMBEM MEU [**CURRÍCULO**](https://github.com/alan-felipe-dev/alan-felipe-dev/raw/main/Curr%C3%ADculo.pdf)
+
+<br>
+
+👋 CONFIRA TAMBÉM MEU [**Portfólio**](https://alan-felipe-dev.github.io/portfolio/)
 
 ---
 
