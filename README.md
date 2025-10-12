@@ -4,7 +4,7 @@
   
   <br>
   
-  <a href="https://github.com/alan-felipe-dev">
+  <a href="https://github.com/alan-felipe-dev" margin-bottom="50px">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alan-felipe-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alan-felipe-dev&layout=compact&langs_count=6&theme=tokyonight"/>
   </a>
@@ -15,7 +15,7 @@
 
   <table>
     <tr>
-      <td align="left" style="padding-right: 20px;" margin-top="50px">
+      <td align="left" style="padding-right: 20px;">
         <div>
           <img alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" width="40">
           <img alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" width="40">
