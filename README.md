@@ -14,7 +14,7 @@
 <br>
 
 <div align="center">
-  <table style="border-collapse: collapse; border: none;">
+  <table border: none;">
     <tr>
       <td align="center" style="border: none; padding: 12px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="55" height="55">
