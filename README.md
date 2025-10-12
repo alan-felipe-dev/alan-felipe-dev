@@ -60,8 +60,6 @@ Busco minha primeira oportunidade como desenvolvedor júnior para aplicar e evol
   Tecnologias: HTML / CSS / JavaScript / API GitHub.
 
 - [📂 Portfólio Pessoal](https://alan-felipe-dev.github.io/portfolio/) — Meu site com projetos, contatos e experiências.
-
-  <br>
   
 👋 OLÁ! CONFIRA [MEU CURRÍCULO](https://github.com/alan-felipe-dev/alan-felipe-dev/raw/main/Curr%C3%ADculo.pdf)
 
