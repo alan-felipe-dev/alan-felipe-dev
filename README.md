@@ -14,35 +14,26 @@
 <br>
 
 <div align="center">
-  <table>
+  <table style="border: none;">
     <tr>
-      <td align="left" valign="top" style="padding-right: 24px; width: 60%;">
-        <table>
-          <tr>
-            <td><img alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="30"></td>
-            <td><img alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="30"></td>
-            <td><img alt="JS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" height="30"></td>
-          </tr>
-          <tr>
-            <td><img alt="TS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="40" height="30"></td>
-            <td><img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" width="40" height="30"></td>
-            <td><img alt="Jest" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="40" height="30"></td>
-          </tr>
-          <tr>
-            <td><img alt="Node" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="30"></td>
-            <td><img alt="Postgres" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="30"></td>
-            <td></td>
-          </tr>
-        </table>
+      <td align="left" valign="top" style="padding-right: 40px;">
+        <div style="text-align: left;">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" style="display:inline-block; margin:12px;">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" style="display:inline-block; margin:12px;">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="50" height="50" style="display:inline-block; margin:12px;">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="50" height="50" style="display:inline-block; margin:12px;">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" width="50" height="50" style="display:inline-block; margin:12px;">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="50" height="50" style="display:inline-block; margin:12px;">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50" style="display:inline-block; margin:12px;">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50" style="display:inline-block; margin:12px;">
+        </div>
       </td>
-      
-  <td align="right" valign="top" style="width: 40%;">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazFjNmcxY3Y5b2M3OGtyOWk3ZzdncjE0M2RiaXlmbGFnMzRzY2lweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1zgzISaYrnMAYRJJEr/giphy.gif" alt="gif animado" width="320" height="320" style="border-radius:10px;">
+  <td align="right" valign="middle">
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazFjNmcxY3Y5b2M3OGtyOWk3ZzdncjE0M2RiaXlmbGFnMzRzY2lweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1zgzISaYrnMAYRJJEr/giphy.gif" alt="gif animado" width="350" height="350" style="border-radius: 10px; margin-left: 30px;">
       </td>
     </tr>
   </table>
 </div>
-
 
 <br>
 
