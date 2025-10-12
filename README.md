@@ -53,10 +53,10 @@ Busco minha primeira oportunidade como desenvolvedor júnior para aplicar e evol
 <br>
 
 ### 🚀 Projetos em destaque
-- [🎧 Gerador de Conselhos](https://github.com/alan-felipe-dev/gerador-conselhos) — Consome API pública e exibe conselhos de forma dinâmica. <br>
+- [🎧 Gerador de Conselhos](https://alan-felipe-dev.github.io/api-de-conselhos/) — Consome API pública e exibe conselhos de forma dinâmica. <br>
   Tecnologias: HTML / CSS / JavaScript / API Fetch.
 
-- [👤 GitHub Finder](https://github.com/alan-felipe-dev/github-finder) — Busca usuários e exibe dados da API do GitHub. <br>
+- [👤 GitHub Finder](https://alan-felipe-dev.github.io/github-api-fetch/) — Busca usuários e exibe dados da API do GitHub. <br>
   Tecnologias: HTML / CSS / JavaScript / API GitHub.
 
 - [📂 Portfólio Pessoal](https://alan-felipe-dev.github.io/portfolio/) — Meu site com projetos, contatos e experiências.
