@@ -51,6 +51,13 @@ Atualmente estudando **React**, **TypeScript** e boas práticas de **UI/UX**.
 Busco minha primeira oportunidade como **Desenvolvedor Júnior** para aplicar e evoluir minhas habilidades.
 Estou buscando uma oportunidade para colocar em prática meus conhecimentos em React e contribuir para projetos inovadores que valorizem a experiência do usuário.
 
+<br>
+
+### 👨‍💻 Estudando
+
+- React
+-Express
+
 ---
 
 ### 🚀 Projetos em destaque
