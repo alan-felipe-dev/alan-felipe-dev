@@ -22,8 +22,6 @@
 
 👋 Olá! Confira meu portfólio: [Meu Portfólio](https://alan-felipe-dev.github.io/portfolio/)
  
-<br>
- 
 ### Gostou do perfil, me segue nas redes sociais abaixo!
  
 <div> 
