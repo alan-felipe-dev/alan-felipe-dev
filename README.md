@@ -8,46 +8,56 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alan-felipe-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alan-felipe-dev&layout=compact&langs_count=6&theme=tokyonight"/>
   </a>
-  
+
 </div>
 
 <br>
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap;">
+
   <table style="border: none; border-collapse: collapse;">
     <tr>
-      <td align="center" valign="middle" style="border: none; padding-right: 40px;">
-        <table style="border: none; border-collapse: collapse;">
-          <tr>
-            <td style="padding: 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="55" height="55"></td>
-            <td style="padding: 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="55" height="55"></td>
-            <td style="padding: 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="55" height="55"></td>
-          </tr>
-          <tr>
-            <td style="padding: 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="55" height="55"></td>
-            <td style="padding: 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" width="55" height="55"></td>
-            <td style="padding: 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="55" height="55"></td>
-          </tr>
-          <tr>
-            <td style="padding: 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="55" height="55"></td>
-            <td style="padding: 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="55" height="55"></td>
-            <td style="padding: 12px;"></td>
-          </tr>
-        </table>
+      <td align="center" style="border: none; padding: 12px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="55" height="55">
       </td>
-
-  <td align="center" valign="middle" style="border: none;">
-        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazFjNmcxY3Y5b2M3OGtyOWk3ZzdncjE0M2RiaXlmbGFnMzRzY2lweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1zgzISaYrnMAYRJJEr/giphy.gif" alt="gif animado" width="350" height="350" style="border-radius: 10px;">
+      <td align="center" style="border: none; padding: 12px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="55" height="55">
+      </td>
+      <td align="center" style="border: none; padding: 12px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="55" height="55">
       </td>
     </tr>
+    <tr>
+      <td align="center" style="border: none; padding: 12px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="55" height="55">
+      </td>
+      <td align="center" style="border: none; padding: 12px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" width="55" height="55">
+      </td>
+      <td align="center" style="border: none; padding: 12px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="55" height="55">
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="border: none; padding: 12px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="55" height="55">
+      </td>
+      <td align="center" style="border: none; padding: 12px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="55" height="55">
+      </td>
+      <td align="center" style="border: none; padding: 12px;"></td>
+    </tr>
   </table>
+
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazFjNmcxY3Y5b2M3OGtyOWk3ZzdncjE0M2RiaXlmbGFnMzRzY2lweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1zgzISaYrnMAYRJJEr/giphy.gif" 
+       alt="gif animado" width="350" height="350" 
+       style="border-radius: 10px; margin-left: 10px;">
 </div>
 
 <br>
 
 👋 OLÁ! CONFIRA [MEU PORTFÓLIO](https://alan-felipe-dev.github.io/portfolio/)
-  <br>
-  <br>
+<br><br>
 👋 OLÁ! CONFIRA [MEU CURRÍCULO](https://github.com/alan-felipe-dev/alan-felipe-dev/raw/main/Curr%C3%ADculo.pdf)
 
 ### Gostou do perfil? Me segue nas redes sociais abaixo!
@@ -70,3 +80,4 @@
 <br>
 
 <img src="https://raw.githubusercontent.com/alan-felipe-dev/alan-felipe-dev/output/snake.svg" alt="Snake animation" />
+
