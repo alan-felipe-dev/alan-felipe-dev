@@ -47,7 +47,7 @@
 
 ### 👨💻 Sobre mim
 Sou desenvolvedor Front-End apaixonado por tecnologia e interfaces modernas.  
-Atualmente estudando React, TypeScript e boas práticas de UI/UX.  
+Atualmente estudando **React**, **TypeScript** e boas práticas de **UI/UX**.  
 Busco minha primeira oportunidade como desenvolvedor júnior para aplicar e evoluir minhas habilidades.
 
 ---
