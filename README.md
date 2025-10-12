@@ -11,7 +11,7 @@
   
 </div>
 
-<div align="center">
+<div align="center" margin: 50px>
 
   <table>
     <tr>
