@@ -108,6 +108,9 @@ Estou buscando uma oportunidade para colocar em prática meus conhecimentos em R
   <a href="https://www.linkedin.com/in/alan-felipe-a550b5332/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  <a href="https://wa.me/5544984134132" target="_blank">
+    <img src="https://img.shields.io/badge/-Whatsapp-%230077B5?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
 </div>
 
 ---
