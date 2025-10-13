@@ -69,11 +69,15 @@ Estou buscando uma oportunidade para colocar em prática meus conhecimentos em R
   
   Tecnologias: HTML / CSS / JavaScript / API Fetch.
 
+<br>
+
 - [👤 GitHub Finder](https://alan-felipe-dev.github.io/github-api-fetch/) — **Busca usuários e exibe dados da API do GitHub.** <br>
 
   Neste projeto, aprimorei minha habilidade de consumir a API do GitHub e gerenciar dados.
   
   Tecnologias: HTML / CSS / JavaScript / API GitHub. <br>
+
+<br>
 
 - [📂 Portfólio Pessoal](https://alan-felipe-dev.github.io/portfolio/) — **Meu site com projetos, contatos e experiências.**
 
