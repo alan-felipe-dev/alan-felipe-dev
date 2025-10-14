@@ -45,7 +45,10 @@
 
 ---
 
-### 👨‍💻 Sobre mim
+<div align="center">
+  ### 👨‍💻 Sobre mim
+</div>
+
 Sou desenvolvedor Front-End apaixonado por tecnologia e interfaces modernas.  
 Atualmente estudando **React**, **TypeScript** e boas práticas de **UI/UX**.  
 Busco minha primeira oportunidade como **Desenvolvedor Júnior** para aplicar e evoluir minhas habilidades.
@@ -53,7 +56,9 @@ Estou buscando uma oportunidade para colocar em prática meus conhecimentos em R
 
 <br>
 
-### 👨‍💻 Estudando
+<div align="center">
+  ### 👨‍💻 Estudando
+</div>
 
 - React <br>
 - Express
@@ -62,7 +67,11 @@ Estou buscando uma oportunidade para colocar em prática meus conhecimentos em R
 
 ---
 
-### 🚀 Projetos em destaque
+
+<div align="center">
+  ### 🚀 Projetos em destaque
+</div>
+
 - [🎧 Gerador de Conselhos](https://alan-felipe-dev.github.io/api-de-conselhos/) — **Consome API pública e exibe conselhos de forma dinâmica.** <br>
 
   Nesse projeto, aprimorei minha habilidade de consumir APIs REST e gerenciar estados em JavaScript. <br>
