@@ -46,22 +46,25 @@
 ---
 
 <div align="center">
+  
   ### 👨‍💻 Sobre mim
-</div>
 
-Sou desenvolvedor Front-End apaixonado por tecnologia e interfaces modernas.  
+  Sou desenvolvedor Front-End apaixonado por tecnologia e interfaces modernas.  
 Atualmente estudando **React**, **TypeScript** e boas práticas de **UI/UX**.  
 Busco minha primeira oportunidade como **Desenvolvedor Júnior** para aplicar e evoluir minhas habilidades.
 Estou buscando uma oportunidade para colocar em prática meus conhecimentos em React e contribuir para projetos inovadores que valorizem a experiência do usuário.
 
+</div>
+
 <br>
 
 <div align="center">
+  
   ### 👨‍💻 Estudando
+  
+  - React <br>
+  - Express
 </div>
-
-- React <br>
-- Express
 
 <br>
 
