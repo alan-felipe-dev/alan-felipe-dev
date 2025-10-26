@@ -103,7 +103,7 @@ Estou buscando uma oportunidade para colocar em prática meus conhecimentos em R
 
 ---
 
-<div align="center">Gostou do perfil? Me segue nas redes sociais abaixo!</div>
+<div align="center">Gostou do perfil? Entre em contato!</div>
 
 <br>
 
