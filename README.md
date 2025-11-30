@@ -84,7 +84,7 @@
 
 <br>
 
-👋 Veja meu currículo completo aqui [**CURRÍCULO**](https://github.com/alan-felipe-dev/alan-felipe-dev/raw/main/Curr%C3%ADculo.pdf)  
+👋 Veja meu currículo completo aqui [**CURRÍCULO**](https://github.com/alan-felipe-dev/alan-felipe-dev/blob/main/Alan%20Felipe.docx.pdf)  
 👋 Confira meu portfólio com projetos práticos e atualizados [**PORTFÓLIO**](https://alan-felipe-dev.github.io/portfolio/)
 
 ---
